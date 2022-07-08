@@ -139,7 +139,7 @@
     "keytar": "^5.6.0",
     "memoize-one": "^5.1.1",
     "mixpanel-browser": "^2.36.0",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "papaparse": "^5.2.0",
     "raven": "^2.6.2",
     "react": "^16.13.1",
