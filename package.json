@@ -190,7 +190,7 @@
     "commander": "^5.1.0",
     "concurrently": "^5.2.0",
     "copy-webpack-plugin": "^5.1.1",
-    "css-loader": "^3.5.3",
+    "css-loader": "^7.1.5",
     "devtron": "^1.4.0",
     "electron": "^8.1.1",
     "electron-builder": "^22.6.0",
